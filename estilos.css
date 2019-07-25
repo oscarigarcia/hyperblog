@@ -45,4 +45,7 @@ body
 #post
 {
     padding: 1em;
+    display: flex;
+    flex-direction: column-reverse;
+    color: brown;
 }
